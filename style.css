@@ -1,0 +1,23 @@
+.photo {
+    display: flex;
+    justify-content: center;
+   
+
+}
+.img-section{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+    
+}
+body{
+    text-align: center;
+}
+
+h5 {
+    color: chartreuse;
+}
+img{
+    width: 70;
+    height: 70;
+}
